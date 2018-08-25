@@ -1,6 +1,7 @@
 # Permalinks
 permalink:      /:year-:month-:day/:title
 
+
 # Setup
 #title:          Tale
 title:          "Blog for K"
